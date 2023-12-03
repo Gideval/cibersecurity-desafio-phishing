@@ -17,5 +17,6 @@
 - URL para clone: http://www.facebook.com
 
 ### Resutados
-
-![Alt text](./passwd.png "Optional title")
+  - O resultado não saiu como esperado, por algum motivo ao tentar logar quando clica no botão "Entrar", a página falsa não é redireciona para a página original.
+![Alt text](./login.png "Optional title")
+![Alt text](./setoolkit.png "Optional title")
